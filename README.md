@@ -2,6 +2,8 @@
 
 ---
 
+<a href="readme-fr.md">French version</a>
+
 ## What is a MITM Attack?
 
 A **Man-in-the-Middle (MITM)** attack places an attacker **between two legitimate parties**, allowing them to **read**, **alter**, or **inject** traffic.  
