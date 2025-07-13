@@ -2,14 +2,14 @@
 
 ---
 
-## 1. What is a MITM Attack?
+## What is a MITM Attack?
 
 A **Man-in-the-Middle (MITM)** attack places an attacker **between two legitimate parties**, allowing them to **read**, **alter**, or **inject** traffic.  
 In ethical hacking, this is performed **only with written authorization**, to assess **network vulnerabilities** and the ability to **detect and respond** to such threats.
 
 ---
 
-## 2. Common MITM Techniques in Penetration Testing
+## Common MITM Techniques in Penetration Testing
 
 | Layer / Vector             | Typical Tools                           | Core Idea                              | 2024–2025 Status                        |
 |---------------------------|------------------------------------------|----------------------------------------|-----------------------------------------|
