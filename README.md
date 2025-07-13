@@ -36,3 +36,5 @@ bettercap> arp.spoof on
 
 # 3. Sniffer le trafic
 bettercap> net.sniff on
+```
+`Remarque` : utilisez ces techniques dans un cadre pédagogique ou professionnel strictement autorisé. L’objectif est toujours la sécurisation, non l’exploitation malveillante. 
