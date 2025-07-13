@@ -21,3 +21,5 @@ In ethical hacking, this is performed **only with written authorization**, to as
 | **DHCP Spoofing**         | Bettercap, Yersinia                      | Provide fake gateway/DNS via DHCP      | Prevented in secure switch configs      |
 
 ---
+
+`Reminder`: These techniques are intended for educational or authorized security assessments only. The goal is to improve security, not to exploit systems maliciously.
