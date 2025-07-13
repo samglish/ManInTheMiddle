@@ -1,15 +1,15 @@
-# # Man‑in‑the‑Middle (MITM) en Ethical Hacking
+## Man‑in‑the‑Middle (MITM) en Ethical Hacking
 
 ---
 
-## 1. Qu'est-ce qu'une attaque MITM ?
+## Qu'est-ce qu'une attaque MITM ?
 
 Une attaque **Man-in-the-Middle (MITM)** place un attaquant **entre deux parties légitimes**, permettant d’**écouter**, **modifier**, ou **injecter** du trafic.  
 En ethical hacking, ce type d’attaque est simulé **uniquement avec une autorisation écrite**, dans le but d’**évaluer les vulnérabilités réseau** et les capacités de **détection et de réponse**.
 
 ---
 
-## 2. Techniques MITM courantes en pentest
+## Techniques MITM courantes en pentest
 
 | Couche / Vecteur         | Outils typiques                         | Principe                             | État actuel (2024-2025) |
 |--------------------------|-----------------------------------------|--------------------------------------|--------------------------|
